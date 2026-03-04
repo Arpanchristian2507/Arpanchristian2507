@@ -122,13 +122,14 @@
 
 # 📊 GitHub Stats:  
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=arpanchristian2507&theme=dark&hide_border=false" height="175" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpanchristian2507&radius=500&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false&custom_title=Activity" height="175" alt="activity-graph graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=arpanchristian2507&theme=dark&hide_border=true" height="175" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpanchristian2507&radius=500&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false&custom_title=Activity" height="300" alt="activity-graph graph"  />
 </div>
 
 ## 🔝 Top Contributed Repo
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=arpanchristian2507&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://raw.githubusercontent.com/arpanchristian2507/arpanchristian2507/output/snake.svg" alt="Snake animation" />
 </div>
 
 ## 🌐 Socials:
