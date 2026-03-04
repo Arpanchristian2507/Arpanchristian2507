@@ -2,7 +2,7 @@
 
 <img 
   align="right" 
-  width="225" 
+  width="250" 
   src="https://cdn.dribbble.com/userupload/20860136/file/original-5af51f8e5428638f054afbf6dde1f02f.gif" 
 />
 
@@ -12,6 +12,7 @@
 🌱 I’m currently learning C++  
 💬 Ask me about Mobile Dev  
 ⚡ Fun fact: My intrest in Math is like Cot(0)  
+<br></br>
 
 # 💻 Tech Stack:
 
