@@ -2,7 +2,7 @@
 
 <img 
   align="right" 
-  width="250" 
+  width="225" 
   src="https://cdn.dribbble.com/userupload/20860136/file/original-5af51f8e5428638f054afbf6dde1f02f.gif" 
 />
 
