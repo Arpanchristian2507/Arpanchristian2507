@@ -6,12 +6,12 @@
   src="https://cdn.dribbble.com/userupload/20860136/file/original-5af51f8e5428638f054afbf6dde1f02f.gif" 
 />
 
- 🔭 I'm currently working on my portfolio website  
- 👯 I’m looking to collaborate in hackathons  
- 🤝 I’m looking for help with an Internship 
+ 🔭 I'm currently working on My Portfolio Website  
+ 👯 I’m looking to collaborate in Hackathons  
+ 🤝 I’m looking for help with an Internship  
  🌱 I’m currently learning C++  
  💬 Ask me about Mobile Dev  
- ⚡ Fun fact: My interest in Math is like Cot(0)  
+ 💀 Fun fact: I don’t break into systems. I just prove they were never locked. 
 <br></br>
 
 # 💻 Tech Stack:
