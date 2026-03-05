@@ -128,7 +128,7 @@
 
 ## 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=arpanchristian2507&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arpanchristian2507&theme=tokyonight"/> -->
   <img src="https://raw.githubusercontent.com/arpanchristian2507/arpanchristian2507/output/snake.svg" alt="Snake animation" />
 </div>
 
