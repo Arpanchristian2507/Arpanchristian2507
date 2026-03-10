@@ -126,7 +126,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpanchristian2507&radius=500&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false&custom_title=Activity" height="300" alt="activity-graph graph"  />
 </div>
 
-## 🔝 Top Contributed Repo
+## 🔝 Contributions
 <div align="center">
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arpanchristian2507&theme=tokyonight"/> -->
   <img src="https://raw.githubusercontent.com/arpanchristian2507/arpanchristian2507/output/snake.svg" alt="Snake animation" />
