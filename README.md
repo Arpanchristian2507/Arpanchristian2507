@@ -136,28 +136,28 @@
 
 <div align="center">
 
-<a href="https://arpanchristian2507.github.io/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/3810/3810194.png" width="45" height="45" alt="website" />
+<a href="https://arpanchristian2507.github.io/" target="_blank" title="🌐 Visit my Portfolio Website — projects, skills, and more!" aria-label="Portfolio Website">
+  <img src="https://cdn-icons-png.flaticon.com/512/3810/3810194.png" width="45" height="45" alt="Portfolio Website" />
 </a>
   
-  <a href="https://www.linkedin.com/in/arpan-christian-25072005t315/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/arpan-christian-25072005t315/" target="_blank" title="💼 Connect with me on LinkedIn — professional profile &amp; experience" aria-label="LinkedIn Profile">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn — Connect with Arpan Christian" />
   </a>
 
- <a href="https://x.com/ArpanChrist2507" target="_blank">
-  <img src="https://cdn.simpleicons.org/x/ffffff" width="52" height="40" alt="x logo" />
+ <a href="https://x.com/ArpanChrist2507" target="_blank" title="🐦 Follow me on X (Twitter) — @ArpanChrist2507" aria-label="X (Twitter) Profile">
+  <img src="https://cdn.simpleicons.org/x/ffffff" width="52" height="40" alt="X (Twitter) — @ArpanChrist2507" />
 </a>
 
-  <a href="https://www.instagram.com/arpan__christian/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  <a href="https://www.instagram.com/arpan__christian/" target="_blank" title="📸 Follow me on Instagram — @arpan__christian" aria-label="Instagram Profile">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram — @arpan__christian" />
   </a>
 
-  <a href="https://discord.gg/sfza8Xk8" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  <a href="https://discord.gg/sfza8Xk8" target="_blank" title="💬 Join my Discord server — chat, collaborate &amp; have fun!" aria-label="Discord Server">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord Server — Join Arpan's community" />
   </a>
 
-  <a href="mailto:arpanchristian2507@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  <a href="mailto:arpanchristian2507@gmail.com" target="_blank" title="📧 Email me at arpanchristian2507@gmail.com" aria-label="Send Email">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail — arpanchristian2507@gmail.com" />
   </a>
 
 </div>
