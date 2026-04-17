@@ -128,7 +128,7 @@
 
 ## 🔝 Contributions
 <div align="center">
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arpanchristian2507&theme=tokyonight"/> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arpanchristian2507&theme=tokyonight"/>
   <img src="https://raw.githubusercontent.com/arpanchristian2507/arpanchristian2507/output/snake.svg" alt="Snake animation" />
 </div>
 
